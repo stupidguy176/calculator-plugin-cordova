@@ -1,0 +1,23 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "Try to make a plugin cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "what test command mean?"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stupidguy176/calculator-plugin-cordova.git"
+  },
+  "keywords": [
+    "plugin",
+    "calculator"
+  ],
+  "author": "ngungu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stupidguy176/calculator-plugin-cordova/issues"
+  },
+  "homepage": "https://github.com/stupidguy176/calculator-plugin-cordova#readme"
+}
